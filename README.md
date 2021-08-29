@@ -66,7 +66,7 @@ Kashier WooCommerce Plugin
 
 - Make sure the test mode is on.
 
-- Customize the title and description that will show up tp your users.
+- Customize the title and description that will show up to your users.
 
 - Save configuration.
 
