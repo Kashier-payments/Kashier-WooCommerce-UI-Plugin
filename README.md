@@ -72,6 +72,13 @@ Kashier WooCommerce Plugin
 
 ![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/woocommerce_configurtion_payment.png)
 
+### Enable Advanced Options 
+
+- Enable Enforce EGP Payment checkbox to accept only EGP payment via kashier, Regardless what is the default currency displayed on your website.
+- After enabling Enforce EGP Payment checkbox , you have to insert exchange rate from your default currency displayed on your website to EGP currency. the exchange rate must be greater than 1 .
+- The next picture is example of advanced options configuration if you display USD currency by default on your website, but you want customers to only pay by EGP currency via kashier payment method. 
+
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/advanced_options.png)
 
 ### Test plugin 
 
