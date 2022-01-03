@@ -50,7 +50,7 @@ Kashier WooCommerce Plugin
 
 - Copy Merchant ID visible under your user name "MID-xx-xx".
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/apikeytest.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/apikey_mid_test.png)
 
 - Navigate to Woocommerce > settings > payments
 
@@ -99,7 +99,7 @@ Kashier WooCommerce Plugin
 
 - Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/apikeylive.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/apikey_mid_live.png)
 
 - Insert Live Api Key in the Configuration page of each module.
 
