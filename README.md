@@ -46,6 +46,8 @@ Kashier WooCommerce Plugin
 
 - Navigate to Integrate now section > payment api keys.
 
+- Navigate to Integrate now section > Secret keys.
+
 - Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
 
 - Copy Merchant ID visible under your user name "MID-xx-xx".
@@ -60,7 +62,7 @@ Kashier WooCommerce Plugin
 
 - choose payment methods which you would like to use to accept payment via kashier.
 
-- Insert the MID and Test Api Key in the Configuration page of each payment method.
+- Insert the MID, Test Api Key and Test Secret Key in the Configuration page of each payment method. 
 
 - Make sure the enable checkbox is checked.
 
@@ -97,11 +99,13 @@ Kashier WooCommerce Plugin
 
 - Navigate to Integrate now section > payment api keys.
 
+- Navigate to Integrate now section > Secret keys.
+
 - Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
 
 ![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/apikey_mid_live.png)
 
-- Insert Live Api Key in the Configuration page of each module.
+- Insert Live Api Key and Live Secret Key in the Configuration page of each module.
 
 - Remove the test mode check.
 
