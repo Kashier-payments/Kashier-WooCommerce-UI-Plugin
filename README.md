@@ -32,7 +32,7 @@ Kashier WooCommerce Plugin
 
 ### Installation
 
-- Download [kashier.zip](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/Kashier-WooCommerce-UI-Plugin-master.zip) 
+- Download [kashier.zip](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/kashier-woocommerce-plugin-master.zip) 
 
 - Upload and activate the plugin on Woocommerce.
 
