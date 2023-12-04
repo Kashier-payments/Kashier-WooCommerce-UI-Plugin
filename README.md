@@ -2,11 +2,11 @@
 ### Wordpress Woocommerce  - Kashier plugin
 Kashier WooCommerce Plugin
 
- * Version: 2.0.0
+ * Version: 4.0.0
  * Requires at least: 4.4
  * Tested up to: 5.4.1
  * WC requires at least: 2.6
- * WC tested up to: 3.6.4
+ * WC tested up to: 8.3
 
 ![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/kashier-logo.png)
 ![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/woocommercew-logo.png)
@@ -24,6 +24,8 @@ Kashier WooCommerce Plugin
       1. Card Payments
       2. Wallet Payments 
       3. Bank Installments Payment    
+      4. valU    
+      4. Fawry    
 
 - Support acquiring multiple currencies "EGP, USD, GBP, EUR".
 
@@ -34,6 +36,8 @@ Kashier WooCommerce Plugin
 
 - Download [kashier.zip](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/Kashier-WooCommerce-Plugin-master.zip) 
 
+  - if you use woocomerce version 8 or above go to woocomerce ->advanced setting -> features 
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/hpos-feature-settings.webp)
 
 - Upload and activate the plugin on Woocommerce.
 
