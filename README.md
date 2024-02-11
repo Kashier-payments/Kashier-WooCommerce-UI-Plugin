@@ -6,7 +6,7 @@ Kashier WooCommerce Plugin
  * Requires at least: 4.4
  * Tested up to: 5.4.1
  * WC requires at least: 2.6
- * WC tested up to: 8.3
+ * WC tested up to: 8.5
 
 ![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/kashier-logo.png)
 ![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/woocommercew-logo.png)
