@@ -4,9 +4,9 @@ Kashier WooCommerce Plugin
 
  * Version: 4.0.0
  * Requires at least: 4.4
- * Tested up to: 5.4.1
+ * Tested up to: 10.0.4
  * WC requires at least: 2.6
- * WC tested up to: 8.5
+ * WC tested up to: 10.0.4
 
 ![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/kashier-logo.png)
 ![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/woocommercew-logo.png)
@@ -15,7 +15,9 @@ Kashier WooCommerce Plugin
 
 - Fully PCI DSS compliant as a Level 1 Service for merchant operating in Egypt.
 
-- I-frame integration.
+- Hosted payment page integration.
+
+- Apple pay enabled on live environment.
 
 - 3D secure cards authentication support.
 
@@ -25,7 +27,8 @@ Kashier WooCommerce Plugin
       2. Wallet Payments 
       3. Bank Installments Payment    
       4. valU    
-      4. Fawry    
+      5. Souhoola    
+      6. Aman    
 
 - Support acquiring multiple currencies "EGP, USD, GBP, EUR".
 
