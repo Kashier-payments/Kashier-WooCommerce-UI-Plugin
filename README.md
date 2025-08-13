@@ -111,7 +111,7 @@ Kashier WooCommerce Plugin
 
 - Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/apikey_mid_live.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/apikey_mid_test.png)
 
 - Insert Live Api Key and Live Secret Key in the Configuration page of each module.
 
