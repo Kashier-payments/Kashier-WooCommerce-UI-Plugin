@@ -50,7 +50,7 @@ Kashier WooCommerce Plugin
 
 ### Obtain Test Credentials
 
-- Login or Sign up on kashier.io https://merchant.kashier.io/
+- Login or Sign up on kashier.io https://portal.kashier.io/
 
 - Navigate to Integrate now section > payment api keys.
 
