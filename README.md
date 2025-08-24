@@ -96,7 +96,7 @@ Kashier WooCommerce Plugin
 
 - After proceeding you will find a Kashier Payment methods that you added it. choose one of them and proceed to make a payment.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/checkout_methods.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier-WooCommerce-UI-Plugin/main/steps/new_checkout_methods.png)
 
 
 ### Go live
